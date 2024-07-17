@@ -2,4 +2,9 @@
 .Pink_2,
 .Pink_3 {
     background-color: rgb(255, 0, 127);
+    font-family: "Verdana", "DejaVuSans", sans-serif;
+}
+
+.Pink_2 {
+    font-size: 24px;
 }
