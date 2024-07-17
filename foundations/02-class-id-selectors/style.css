@@ -1,6 +1,5 @@
-.Pink_1,
-.Pink_2,
-.Pink_3 {
+p,
+.Pink_2 {
     background-color: rgb(255, 0, 127);
     font-family: "Verdana", "DejaVuSans", sans-serif;
 }
@@ -9,6 +8,12 @@
     color: rgb(0, 0, 255);
     font-size: 36px;
 
+}
+
+#Number_4 {
+    background-color: rgb(103, 206, 103);
+    font-weight: bold;
+    font-size: 24px;
 }
 
 .Pink_2 {
